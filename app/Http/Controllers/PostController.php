@@ -50,11 +50,18 @@ class PostController extends Controller // StudlyCase
 
     public function store() // camelCase
     {
+        // Code to validate the data
+        request()->validate([
+            'title'=> ['required', 'min:3'],
+            'description'=> ['required', 'min:5'],
+            'post_creator'=> ['required','exists:users,id'],
+        ]);
+        
         //$request = request();
         //dd($request->title, $request->all());
 
         // 1- Get the user data
-        $data = request()->all();
+        // $data = request()->all();
 
         $title = request()->title;
         $description = request()->description;
@@ -88,6 +95,13 @@ class PostController extends Controller // StudlyCase
 
     public function update($postId) // camelCase
     {
+        // Code to validate the data
+        request()->validate([
+            'title'=> ['required', 'min:3'],
+            'description'=> ['required', 'min:5'],
+            'post_creator'=> ['required','exists:users,id'],
+        ]);
+        
         // 1- Get the user data
         $title = request()->title;
         $description = request()->description;

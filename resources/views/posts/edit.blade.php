@@ -6,6 +6,22 @@ Edit
 
 @section('content')
 
+<!-- /resources/views/post/Edit.blade.php -->
+
+<h1>Edit Post</h1>
+
+@if ($errors->any())
+    <div class="alert alert-danger">
+        <ul>
+            @foreach ($errors->all() as $error)
+                <li>{{ $error }}</li>
+            @endforeach
+        </ul>
+    </div>
+@endif
+
+<!-- Edit Post Form -->
+
 <form method="POST" action="{{ route('posts.update', $post->id) }}">
     @csrf
     @method('PUT')
@@ -21,7 +37,8 @@ Edit
       <label class="form-label">Post Creator</label>
       <select name="post_creator" class="form-control">
         @foreach ($users as $user)
-          <option value="{{$user->id}}">{{$user->name}}</option>
+          {{-- <option @if ($user->id == $post->user_id) selected @endif value="{{$user->id}}">{{$user->name}}</option> --}}
+          <option @selected($user->id == $post->user_id) value="{{$user->id}}">{{$user->name}}</option>
         @endforeach
       </select>
     </div>

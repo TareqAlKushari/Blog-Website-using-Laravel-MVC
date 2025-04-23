@@ -16,12 +16,12 @@ Show
         </div>
         <div class="card mt-4">
             <div class="card-header">
-              Featured
+              Post Creator Info
             </div>
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">Name: {{$post->user ? $post->user->name : 'not found'}}</h5>
+              <p class="card-text">Email: {{$post->user ? $post->user->email : 'not found'}}</p>
+              <p class="card-text">Created At: {{$post->user ? $post->user->created_at : 'not found'}}</p>
             </div>
         </div>
 @endsection
