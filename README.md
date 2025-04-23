@@ -12,4 +12,3 @@ Blog Website Using PHP, Laravel MVC, and MySQL
 
 ## Edit
 ![](/public/images/Screenshot4.png)
-
