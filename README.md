@@ -109,6 +109,18 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+## 👤 Author
+
+**Tareq Al-Kushari**
+
+* 🌐 GitHub: [@TareqAlKushari](https://github.com/TareqAlKushari)
+* 📧 Email: [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)
+* 📱 Social Links: [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) | [Twitter (X)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
 ## 📫 Contact
 
 **Tareq Al-Kushari**
