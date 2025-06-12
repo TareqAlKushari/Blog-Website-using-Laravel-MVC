@@ -29,8 +29,6 @@ A full-featured blog platform built using **Laravel 10**. This project demonstra
 
 ## 📸 Demo Preview
 
-> *(You can replace these placeholders with real screenshots later)*
-
 ### Homepage
 
 ![Homepage Screenshot](https://via.placeholder.com/800x400?text=Blog+Homepage+Screenshot)
@@ -38,6 +36,17 @@ A full-featured blog platform built using **Laravel 10**. This project demonstra
 ### Admin Dashboard
 
 ![Admin Screenshot](https://via.placeholder.com/800x400?text=Admin+Dashboard+Screenshot)
+![Index Screenshot](/public/images/Screenshot1.png)
+> Index
+
+![View Screenshot](/public/images/Screenshot2.png)
+> View
+
+![Create Screenshot](/public/images/Screenshot3.png)
+> Create
+
+![Edit Screenshot](/public/images/Screenshot4.png)
+> Edit
 
 ---
 
@@ -119,22 +128,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
-
-## 📫 Contact
-
-**Tareq Al-Kushari**
-
-* 📧 [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)
-* 🐦 [X / Twitter](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
-* 📘 [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL)
-* 📷 [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is open-source and available under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
