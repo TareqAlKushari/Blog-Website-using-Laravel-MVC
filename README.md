@@ -36,15 +36,19 @@ A full-featured blog platform built using **Laravel 10**. This project demonstra
 ### Admin Dashboard
 
 > Index Screenshot
+
 ![Index Screenshot](/public/images/Screenshot1.png)
 
 > View Screenshot
+
 ![View Screenshot](/public/images/Screenshot2.png)
 
 > Create Screenshot
+
 ![Create Screenshot](/public/images/Screenshot3.png)
 
 > Edit Screenshot
+
 ![Edit Screenshot](/public/images/Screenshot4.png)
 
 ---
