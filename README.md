@@ -124,7 +124,8 @@ Contributions, issues, and feature requests are welcome!
 ## Author 🙋‍♂️
 
 **Tareq Al-Kushari**
-[GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [Twitter (X)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com) • [+967773350540](tel:+967773350540) • [Portfolio Website](#)
+
+[GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [+967773350540](tel:+967773350540) • [Portfolio Website](#)
 
 ## License 📜
 
